@@ -29,6 +29,11 @@ This data was obtained from the Medical Records provided in the Data Analytics C
 The data provided contained blank spaces which were cleaned by filling the columns that contained numbers with the average value of their total sum, the female gender was used to fill the blanks in the gender column, the blood group ‘O’ was used to fill the blanks in the blood group column while the blanks in the smoking and diabetes columns were returned as unspecified.
 
 ## ANALYSIS & VISUALISATION
+
+AVERAGE VALUES PIVOT TABLE            |          AVERAGE VALUES PIVOT CHART
+:-------------------------------------|------------------------------------:
+![](average_value_pivot_tables.png)   |![](averageva_values_pivot_chart.png)
+
 The average values of the medical status (Age, BMI, Temperature, Heart Rate, Blood Pressure, Cholesterol) of all students were the same.
 The average weight and height of all students were slightly different based on both genders when the values were returned in two decimal places.
 Students with the Blood Group ‘O’ were more compared to those in the other blood groups.
